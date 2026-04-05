@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/he-codes-25/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/he-codes-25/DSA/tree/master/0050-powx-n) |
 | [2544-alternating-digit-sum](https://github.com/he-codes-25/DSA/tree/master/2544-alternating-digit-sum) |
 ## Array
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/he-codes-25/DSA/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/he-codes-25/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

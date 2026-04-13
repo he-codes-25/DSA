@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/he-codes-25/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/he-codes-25/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/he-codes-25/DSA/tree/master/0088-merge-sorted-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/he-codes-25/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/he-codes-25/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |

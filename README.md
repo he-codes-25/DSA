@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/he-codes-25/DSA/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/he-codes-25/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/he-codes-25/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/he-codes-25/DSA/tree/master/0088-merge-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/he-codes-25/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/he-codes-25/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/he-codes-25/DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/he-codes-25/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

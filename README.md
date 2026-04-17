@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/he-codes-25/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/he-codes-25/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/he-codes-25/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3248-snake-in-matrix](https://github.com/he-codes-25/DSA/tree/master/3248-snake-in-matrix) |

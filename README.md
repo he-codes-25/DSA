@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/he-codes-25/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/he-codes-25/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3248-snake-in-matrix](https://github.com/he-codes-25/DSA/tree/master/3248-snake-in-matrix) |
+| [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/he-codes-25/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/he-codes-25/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3248-snake-in-matrix](https://github.com/he-codes-25/DSA/tree/master/3248-snake-in-matrix) |
+| [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/he-codes-25/DSA/tree/master/0657-robot-return-to-origin) |
 | [3248-snake-in-matrix](https://github.com/he-codes-25/DSA/tree/master/3248-snake-in-matrix) |
+| [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |

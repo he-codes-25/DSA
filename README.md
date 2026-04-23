@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/he-codes-25/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/he-codes-25/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/he-codes-25/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/he-codes-25/DSA/tree/master/0657-robot-return-to-origin) |
 | [0824-goat-latin](https://github.com/he-codes-25/DSA/tree/master/0824-goat-latin) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/he-codes-25/DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/he-codes-25/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/he-codes-25/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |

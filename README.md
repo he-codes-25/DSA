@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/he-codes-25/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/he-codes-25/DSA/tree/master/0263-ugly-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/he-codes-25/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2544-alternating-digit-sum](https://github.com/he-codes-25/DSA/tree/master/2544-alternating-digit-sum) |
 ## Array
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/he-codes-25/DSA/tree/master/0657-robot-return-to-origin) |
+| [1688-count-of-matches-in-tournament](https://github.com/he-codes-25/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3248-snake-in-matrix](https://github.com/he-codes-25/DSA/tree/master/3248-snake-in-matrix) |
 | [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
 ## Trie

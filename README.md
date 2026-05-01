@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/he-codes-25/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/he-codes-25/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/he-codes-25/DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/he-codes-25/DSA/tree/master/0657-robot-return-to-origin) |
 | [0824-goat-latin](https://github.com/he-codes-25/DSA/tree/master/0824-goat-latin) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/he-codes-25/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/he-codes-25/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/he-codes-25/DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/he-codes-25/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/he-codes-25/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/he-codes-25/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/he-codes-25/DSA/tree/master/0242-valid-anagram) |
 | [2785-sort-vowels-in-a-string](https://github.com/he-codes-25/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Enumeration
 |  |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/he-codes-25/DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/he-codes-25/DSA/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/he-codes-25/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/he-codes-25/DSA/tree/master/0824-goat-latin) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/he-codes-25/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/he-codes-25/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/he-codes-25/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

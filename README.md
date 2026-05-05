@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/he-codes-25/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/he-codes-25/DSA/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/he-codes-25/DSA/tree/master/0917-reverse-only-letters) |
+| [1496-path-crossing](https://github.com/he-codes-25/DSA/tree/master/1496-path-crossing) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/he-codes-25/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/he-codes-25/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/he-codes-25/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/he-codes-25/DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
+| [1496-path-crossing](https://github.com/he-codes-25/DSA/tree/master/1496-path-crossing) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/he-codes-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/he-codes-25/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |

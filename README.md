@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/he-codes-25/DSA/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/he-codes-25/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1496-path-crossing](https://github.com/he-codes-25/DSA/tree/master/1496-path-crossing) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/he-codes-25/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/he-codes-25/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/he-codes-25/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/he-codes-25/DSA/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/he-codes-25/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/he-codes-25/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/he-codes-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/he-codes-25/DSA/tree/master/0263-ugly-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/he-codes-25/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2544-alternating-digit-sum](https://github.com/he-codes-25/DSA/tree/master/2544-alternating-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/he-codes-25/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |

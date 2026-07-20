@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/he-codes-25/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3248-snake-in-matrix](https://github.com/he-codes-25/DSA/tree/master/3248-snake-in-matrix) |
 | [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/he-codes-25/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/he-codes-25/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3248-snake-in-matrix](https://github.com/he-codes-25/DSA/tree/master/3248-snake-in-matrix) |
 | [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/he-codes-25/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
 | ------- |

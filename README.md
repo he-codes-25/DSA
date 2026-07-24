@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/he-codes-25/DSA/tree/master/3151-special-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/he-codes-25/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3248-snake-in-matrix](https://github.com/he-codes-25/DSA/tree/master/3248-snake-in-matrix) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/he-codes-25/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/he-codes-25/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/he-codes-25/DSA/tree/master/0905-sort-array-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/he-codes-25/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/he-codes-25/DSA/tree/master/2785-sort-vowels-in-a-string) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/he-codes-25/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Enumeration
 |  |
 | ------- |

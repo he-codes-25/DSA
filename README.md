@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/he-codes-25/DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/he-codes-25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
+| [0905-sort-array-by-parity](https://github.com/he-codes-25/DSA/tree/master/0905-sort-array-by-parity) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/he-codes-25/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/he-codes-25/DSA/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/he-codes-25/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/he-codes-25/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/he-codes-25/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0905-sort-array-by-parity](https://github.com/he-codes-25/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/he-codes-25/DSA/tree/master/0917-reverse-only-letters) |
 | [3884-first-matching-character-from-both-ends](https://github.com/he-codes-25/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/he-codes-25/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/he-codes-25/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/he-codes-25/DSA/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/he-codes-25/DSA/tree/master/0905-sort-array-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/he-codes-25/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/he-codes-25/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Enumeration

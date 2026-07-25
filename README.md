@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/he-codes-25/DSA/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/he-codes-25/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1496-path-crossing](https://github.com/he-codes-25/DSA/tree/master/1496-path-crossing) |
+| [1668-maximum-repeating-substring](https://github.com/he-codes-25/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/he-codes-25/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/he-codes-25/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -169,4 +170,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/he-codes-25/DSA/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/he-codes-25/DSA/tree/master/1668-maximum-repeating-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/he-codes-25/DSA/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->

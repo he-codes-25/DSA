@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/he-codes-25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
 | [0905-sort-array-by-parity](https://github.com/he-codes-25/DSA/tree/master/0905-sort-array-by-parity) |
+| [1207-unique-number-of-occurrences](https://github.com/he-codes-25/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/he-codes-25/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/he-codes-25/DSA/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/he-codes-25/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/he-codes-25/DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/he-codes-25/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/he-codes-25/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1496-path-crossing](https://github.com/he-codes-25/DSA/tree/master/1496-path-crossing) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/he-codes-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |

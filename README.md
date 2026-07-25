@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/he-codes-25/DSA/tree/master/0263-ugly-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/he-codes-25/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2544-alternating-digit-sum](https://github.com/he-codes-25/DSA/tree/master/2544-alternating-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/he-codes-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/he-codes-25/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/he-codes-25/DSA/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/he-codes-25/DSA/tree/master/3945-digit-frequency-score) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/he-codes-25/DSA/tree/master/0905-sort-array-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/he-codes-25/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/he-codes-25/DSA/tree/master/2785-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/he-codes-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/he-codes-25/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Enumeration
 |  |

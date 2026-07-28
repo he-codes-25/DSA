@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/he-codes-25/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1496-path-crossing](https://github.com/he-codes-25/DSA/tree/master/1496-path-crossing) |
 | [1668-maximum-repeating-substring](https://github.com/he-codes-25/DSA/tree/master/1668-maximum-repeating-substring) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/he-codes-25/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/he-codes-25/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/he-codes-25/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/he-codes-25/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/he-codes-25/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->

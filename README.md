@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/he-codes-25/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/he-codes-25/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/he-codes-25/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/he-codes-25/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/he-codes-25/DSA/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/he-codes-25/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/he-codes-25/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -194,8 +195,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/he-codes-25/DSA/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/he-codes-25/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/he-codes-25/DSA/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/he-codes-25/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

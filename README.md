@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/he-codes-25/DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/he-codes-25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/he-codes-25/DSA/tree/master/0500-keyboard-row) |
+| [0739-daily-temperatures](https://github.com/he-codes-25/DSA/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/he-codes-25/DSA/tree/master/0905-sort-array-by-parity) |
 | [1207-unique-number-of-occurrences](https://github.com/he-codes-25/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/he-codes-25/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -189,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/he-codes-25/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/he-codes-25/DSA/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/he-codes-25/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

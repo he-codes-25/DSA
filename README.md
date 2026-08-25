@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/he-codes-25/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/he-codes-25/DSA/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/he-codes-25/DSA/tree/master/0367-valid-perfect-square) |
 | [1688-count-of-matches-in-tournament](https://github.com/he-codes-25/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2544-alternating-digit-sum](https://github.com/he-codes-25/DSA/tree/master/2544-alternating-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/he-codes-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/he-codes-25/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/he-codes-25/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/he-codes-25/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/he-codes-25/DSA/tree/master/0367-valid-perfect-square) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/he-codes-25/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |

@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/he-codes-25/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/he-codes-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/he-codes-25/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/he-codes-25/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/he-codes-25/DSA/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/he-codes-25/DSA/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/he-codes-25/DSA/tree/master/3959-check-good-integer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/he-codes-25/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/he-codes-25/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/he-codes-25/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/he-codes-25/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |

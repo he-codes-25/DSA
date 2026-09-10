@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/he-codes-25/DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/he-codes-25/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/he-codes-25/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/he-codes-25/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3151-special-array-i](https://github.com/he-codes-25/DSA/tree/master/3151-special-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/he-codes-25/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/he-codes-25/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/he-codes-25/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |

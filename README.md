@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/he-codes-25/DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/he-codes-25/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/he-codes-25/DSA/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/he-codes-25/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

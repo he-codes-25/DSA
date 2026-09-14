@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/he-codes-25/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/he-codes-25/DSA/tree/master/0367-valid-perfect-square) |
+| [0836-rectangle-overlap](https://github.com/he-codes-25/DSA/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/he-codes-25/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/he-codes-25/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/he-codes-25/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/he-codes-25/DSA/tree/master/0203-remove-linked-list-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/he-codes-25/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

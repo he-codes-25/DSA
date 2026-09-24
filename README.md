@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/he-codes-25/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/he-codes-25/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/he-codes-25/DSA/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/he-codes-25/DSA/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/he-codes-25/DSA/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/he-codes-25/DSA/tree/master/3959-check-good-integer) |
+| [4020-elevator-requests-i](https://github.com/he-codes-25/DSA/tree/master/4020-elevator-requests-i) |
 ## Trie
 |  |
 | ------- |

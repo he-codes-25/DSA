@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/he-codes-25/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/he-codes-25/DSA/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/he-codes-25/DSA/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/he-codes-25/DSA/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/he-codes-25/DSA/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/he-codes-25/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/he-codes-25/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/he-codes-25/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

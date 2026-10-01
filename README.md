@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/he-codes-25/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/he-codes-25/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/he-codes-25/DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/he-codes-25/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/he-codes-25/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/he-codes-25/DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/he-codes-25/DSA/tree/master/0485-max-consecutive-ones) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/he-codes-25/DSA/tree/master/0118-pascals-triangle) |
 | [1668-maximum-repeating-substring](https://github.com/he-codes-25/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Heap (Priority Queue)
 |  |

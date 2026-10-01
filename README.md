@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/he-codes-25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/he-codes-25/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/he-codes-25/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/he-codes-25/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/he-codes-25/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/he-codes-25/DSA/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/he-codes-25/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/he-codes-25/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/he-codes-25/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/he-codes-25/DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/he-codes-25/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
 |  |

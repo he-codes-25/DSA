@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/he-codes-25/DSA/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/he-codes-25/DSA/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/he-codes-25/DSA/tree/master/3248-snake-in-matrix) |
+| [3340-check-balanced-string](https://github.com/he-codes-25/DSA/tree/master/3340-check-balanced-string) |
 | [3798-largest-even-number](https://github.com/he-codes-25/DSA/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/he-codes-25/DSA/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/he-codes-25/DSA/tree/master/3856-trim-trailing-vowels) |

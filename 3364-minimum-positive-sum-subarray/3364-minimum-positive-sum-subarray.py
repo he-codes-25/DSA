@@ -9,7 +9,6 @@ class Solution(object):
                         m=target
                     else:
                         m=min(target,m)
-        print(m)
         if m==None or m==0:
             return -1
         return m

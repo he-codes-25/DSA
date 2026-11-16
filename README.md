@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/he-codes-25/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/he-codes-25/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/he-codes-25/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/he-codes-25/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/he-codes-25/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/he-codes-25/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/he-codes-25/DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/he-codes-25/DSA/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/he-codes-25/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/he-codes-25/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/he-codes-25/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/he-codes-25/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/he-codes-25/DSA/tree/master/3174-clear-digits) |
